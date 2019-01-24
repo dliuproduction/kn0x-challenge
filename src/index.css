@@ -24,3 +24,16 @@ code {
   border: 1px solid black;
   border-collapse: collapse;
 }
+
+.App td form {
+  display:flex;
+  height: 100%;
+  align-items: center;
+}
+
+.App td form input{
+  border: none;
+  height: 100%;
+  font-size: inherit;
+  text-align: center;
+}
