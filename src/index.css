@@ -12,3 +12,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.App table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  height: 100%;
+  width: 100%;
+}
+
+.App th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
